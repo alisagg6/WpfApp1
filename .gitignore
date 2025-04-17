@@ -361,3 +361,18 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/WpfApp1/PriemPage1.xaml
+/WpfApp1/AvtorizationPage1.xaml.cs
+/WpfApp1/AddPriemWindow1.xaml.cs
+/WpfApp1/AnimalsPage1.xaml
+/WpfApp1/AddAnimalWindow1.xaml.cs
+/WpfApp1/AvtorizationPage1.xaml
+/WpfApp1/Resurce/orig.png
+/WpfApp1/AddAnimalWindow1.xaml
+/WpfApp1/AddPriemWindow1.xaml
+/WpfApp1/AnimalsPage1.xaml.cs
+/WpfApp1/DoctorPage1.xaml.cs
+/WpfApp1/DoctorPage1.xaml
+/WpfApp1/MenuWindow1.xaml
+/WpfApp1/MenuWindow1.xaml.cs
+/WpfApp1/PriemPage1.xaml.cs
